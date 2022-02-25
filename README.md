@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hasnain Abbas (@hasn-ab).
-- 👀 I’m interested in Hybrid Mobile Development using React Native.
+- 👀 I’m interested in building great mobile applications using React Native.
 - 🌱 I’m currently learning Node.js and Typescript.
 - 💞️ I’m looking to collaborate on building fast animated libraries.
 - 📫 How to reach me:
