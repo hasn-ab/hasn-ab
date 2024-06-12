@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasnain Abbas (@hasn-ab).
-- 👀 I’m interested in building great mobile applications using React Native.
-- 🌱 I’m currently learning Node.js and AI technologies.
+- 👀 I build apps with React Native and native frameworks.
+- 🌱 I’m partly work on Next.js for BE.
 - 📫 How to reach me:
      Email: hasn.abbas94@gmail.com
      LinkedIn: www.linkedin.com/in/hasnainabbasdilawar
